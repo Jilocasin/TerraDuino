@@ -1,3 +1,4 @@
+# TerraDuino
 TerraDuino is a C++ based terrarium controller based on an Arduino microcontroller and the [Sloeber IDE](http://eclipse.baeyens.it).
 
 # Features
