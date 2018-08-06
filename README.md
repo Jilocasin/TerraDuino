@@ -7,6 +7,9 @@ It features:
 * I/O panels for DHT22 temperature and humidity sensors
 * Single rotary encoder with a user-friendly UI for configuration
 
+# Status
+Most features are still missing and will be added over time. Bare with me, guys.
+
 # User interface
 Based on concepts of the Android platform TerraDuino consists of *Activities* and *Views*. An *Activity* is a single full-screen element the user can interact with. It consists of multiple *Views* (or rather *Renderable* objects), each representing a logical UI block element.
 
