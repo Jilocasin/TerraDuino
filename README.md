@@ -5,7 +5,7 @@ It features:
 * Real time clock for accurate time tracking without requiring any network or GPS
 * Relay modules to switch on/off up to eight mains-powered sockets
 * I/O panels for DHT22 temperature and humidity sensors
-* Single rotary encoder with a user-friendly UI for configuration
+* Single rotary encoder complementing a user-friendly UI for easy but extensive configuration
 
 # Status
 Most features are still missing and will be added over time. Bare with me, guys.
