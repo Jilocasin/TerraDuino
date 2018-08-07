@@ -12,14 +12,19 @@ TerraDuino is a C++ based terrarium controller using an Arduino microcontroller.
 Most features are still missing and will be added over time. Bare with me, guys.
 
 # User interface
-Based on concepts of the Android platform TerraDuino consists of *Activities* and *Views*.
+Based on concepts of the Android platform TerraDuino consists of `Activities` and `Views`.
 
-An *Activity* is a single full-screen element the user can interact with. It consists of multiple *Views* (or rather *Renderable* objects), each representing a logical UI block element.
+`Activities` are single, full-screen elements the user can interact with. They consist of multiple `Views` (or `Renderable` objects), each representing a UI block element.
 
 # Controllers
 Controllers take care of user input and presented screen elements.
 
-Any class instance can register itself as the current *InputReceiver* to receive commands from the rotary encoder. The *ScreenController* manages a stack of activities and takes care of rendering UI elements.
+Any object instance can register itself as the current `InputReceiver` to receive commands from the rotary encoder. The `ScreenController` manages a stack of activities and takes care of rendering UI elements.
+
+# License
+TerraDuino is licensed under the GNU General Public License v3.0.
+
+See [LICENSE](LICENSE) for details.
 
 # Disclaimer
 This project is in no way related to https://github.com/TLINDEN/TerraDuino although it happens to share the same name by coincidence.
