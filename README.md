@@ -1,5 +1,5 @@
 # TerraDuino
-TerraDuino is a C++ based terrarium controller using an Arduino microcontroller. It is developed using the [Sloeber IDE](http://eclipse.baeyens.it).
+TerraDuino is a C++ based terrarium controller using an Arduino Mega 2560 microcontroller. It is developed using the [Sloeber IDE](http://eclipse.baeyens.it).
 
 ## Features
 * 320x480 pixel display for status feedback, real-time temperature charts and configuration
